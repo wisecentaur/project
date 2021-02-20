@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header_menu{
+  display: flex;
+  background-image: url(img/bg.jpg);
+  height: 930px;
+  width: 100%;
+}
+
+
+.logo {
+  padding-top:70px ;
+  padding-left: 650px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  padding-top: 10px;
+  padding-left: 90px;
+}
+
+.menu_text {
+  text-decoration: none;
+  margin-top: -50px ;
+  margin-left: 50px;
+  color: #FFFFFF;
+  font-size: 15px;
+}
+
+.menu_right{
+  padding-left: 1100px;
+  margin-top: -45px;
+}
